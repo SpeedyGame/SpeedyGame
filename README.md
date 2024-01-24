@@ -1,5 +1,5 @@
-### Hello. My name is Steven Mensah. I'm an undergraduate student at Knox College, majoring in Computer Science and minoring in either Music, Japanese, or both.
-I do not have much coding experience as of now. I've messed around in video game engines such as Unity, RenPy, and took a Web Development class in highschool
+### Hello. My name is Steven Mensah. I'm an undergraduate student at Knox College, majoring in Computer Science and minoring in Studio Art Design.
+(will be updated soon) I do not have much coding experience as of now. I've messed around in video game engines such as Unity, RenPy, and took a Web Development class in highschool
 (which you can view). It's only until the start of college that I started to learn more about programming and know what I'm typing on the screen and why. I hope to put up
 some of my personal projects here (mainly game dev projects).
 
