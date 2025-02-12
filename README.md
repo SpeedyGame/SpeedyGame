@@ -1,8 +1,7 @@
-### Hello. My name is Steven Mensah. I'm an undergraduate student at Knox College, majoring in Computer Science and minoring in Studio Art Design.
-(will be updated soon) I do not have much coding experience as of now. I've messed around in video game engines such as Unity, RenPy, and took a Web Development class in highschool
-(which you can view). It's only until the start of college that I started to learn more about programming and know what I'm typing on the screen and why. I hope to put up
-some of my personal projects here (mainly game dev projects).
+### Hello. My name is Steven Mensah (he/him). I'm an undergraduate student at Knox College, majoring in Computer Science and minoring in Studio Art Design.
+I have experience in various programming languages like Java, Python, and C, and experience in video game engines such as Unity and Godot.
 
+Fun fact: I am also a musician! I used to play clarinet throughout high school but picked up bass guitar.
 <!--
 
 We can do this, just because.
